@@ -36,3 +36,19 @@ Overall, JIRA is a powerful and flexible tool that can help teams of all sizes a
 - Creating and managing JIRA boards
 - Customizing board settings and options
 - Using JIRA boards to visualize and manage work
+
+# Chapter 6: JIRA Screens
+
+- Creating and managing JIRA Screens
+- Customizing Screens settings and options
+- Using JIRA Screens 
+
+# Chapter 7: JIRA Fields
+
+- Creating and managing JIRA Fields
+- Customizing Fields settings and options
+- Using JIRA Fields 
+
+# Chapter 8: JIRA Permission Management
+
+- Creating Project permissions
